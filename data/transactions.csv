@@ -1,1 +1,2 @@
-txn_id,date,amount,category,product,channel,session_id,batch_id,counterparty,note
+txn_id,date,amount,category,product,channel,session_id,batch_id,quantity,unit_price,counterparty,note
+txn_20260703_z9zrz,2026-07-03,225.08,institutional,,,,,,,Initial Account,Moving account information to new system
