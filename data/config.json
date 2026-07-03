@@ -1,0 +1,48 @@
+{
+  "club_name": "LSU Agribusiness Club",
+  "products": [
+    "honey",
+    "woodworking"
+  ],
+  "channels": [
+    "tabling",
+    "online",
+    "donation",
+    "SG",
+    "PSIF",
+    "ORF"
+  ],
+  "roles": [
+    {
+      "role": "president",
+      "weekly_hour_cap": 3
+    },
+    {
+      "role": "treasurer",
+      "weekly_hour_cap": 3
+    },
+    {
+      "role": "officer",
+      "weekly_hour_cap": 3
+    },
+    {
+      "role": "graduate_advisor",
+      "weekly_hour_cap": 1
+    },
+    {
+      "role": "member",
+      "weekly_hour_cap": 1
+    }
+  ],
+  "tabling_schedule": {
+    "sessions_per_week": 2,
+    "hours_per_session": 2,
+    "ideal_people_present": [
+      2,
+      3
+    ]
+  },
+  "officer_count": 7,
+  "labor_rate": null,
+  "fiscal_year_start": "08-01"
+}
