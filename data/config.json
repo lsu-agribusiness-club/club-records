@@ -5,7 +5,11 @@
     "honey_6oz",
     "honey_8oz",
     "honey_12oz",
-    "honey_16oz"
+    "honey_16oz",
+    "cb_lipbalm_1oz",
+    "cb_lipbalm_.5oz",
+    "lipbalm_1oz",
+    "lipbalm_.5oz"
   ],
   "channels": [
     "tabling",
