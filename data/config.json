@@ -1,8 +1,11 @@
 {
   "club_name": "LSU Agribusiness Club",
   "products": [
-    "honey",
-    "woodworking"
+    "honey_2oz",
+    "honey_6oz",
+    "honey_8oz",
+    "honey_12oz",
+    "honey_16oz"
   ],
   "channels": [
     "tabling",
