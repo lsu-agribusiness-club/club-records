@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Fall classes begin",
+    "date": "2026-08-24",
+    "category": "academic",
+    "notes": "First day of Fall 2026 classes.",
+    "id": "evt:lsu-f26-begin"
+  },
+  {
+    "title": "Labor Day — no classes",
+    "date": "2026-09-07",
+    "category": "academic",
+    "id": "evt:lsu-f26-labor"
+  },
+  {
+    "title": "Fall Holiday",
+    "date": "2026-10-08",
+    "endDate": "2026-10-09",
+    "category": "academic",
+    "notes": "Students away.",
+    "id": "evt:lsu-f26-fallhol"
+  },
+  {
+    "title": "Thanksgiving Holiday",
+    "date": "2026-11-25",
+    "endDate": "2026-11-27",
+    "category": "academic",
+    "notes": "Begins 12:30pm Nov 25. Students away.",
+    "id": "evt:lsu-f26-thanks"
+  },
+  {
+    "title": "Concentrated Study Period",
+    "date": "2026-12-02",
+    "endDate": "2026-12-06",
+    "category": "academic",
+    "notes": "University policy bars extracurricular student activities on or off campus. Do not schedule club events.",
+    "id": "evt:lsu-f26-csp"
+  },
+  {
+    "title": "Last day of Fall classes",
+    "date": "2026-12-05",
+    "category": "academic",
+    "id": "evt:lsu-f26-last"
+  },
+  {
+    "title": "Final Exams (Fall)",
+    "date": "2026-12-07",
+    "endDate": "2026-12-12",
+    "category": "academic",
+    "notes": "Avoid scheduling club events.",
+    "id": "evt:lsu-f26-finals"
+  },
+  {
+    "title": "Fall Commencement",
+    "date": "2026-12-17",
+    "category": "academic",
+    "id": "evt:lsu-f26-comm"
+  },
+  {
+    "title": "Spring classes begin",
+    "date": "2027-01-11",
+    "category": "academic",
+    "notes": "First day of Spring 2027 classes.",
+    "id": "evt:lsu-s27-begin"
+  },
+  {
+    "title": "MLK Day — no classes",
+    "date": "2027-01-18",
+    "category": "academic",
+    "id": "evt:lsu-s27-mlk"
+  },
+  {
+    "title": "Mardi Gras Holiday",
+    "date": "2027-02-08",
+    "endDate": "2027-02-10",
+    "category": "academic",
+    "notes": "Classes resume 12:30pm Feb 10.",
+    "id": "evt:lsu-s27-mardi"
+  },
+  {
+    "title": "Spring Break (tentative)",
+    "date": "2027-03-08",
+    "endDate": "2027-03-12",
+    "category": "academic",
+    "notes": "Marked tentative on the registrar calendar.",
+    "id": "evt:lsu-s27-spring"
+  },
+  {
+    "title": "Good Friday — no classes",
+    "date": "2027-03-26",
+    "category": "academic",
+    "id": "evt:lsu-s27-good"
+  },
+  {
+    "title": "Concentrated Study Period",
+    "date": "2027-04-28",
+    "endDate": "2027-05-02",
+    "category": "academic",
+    "notes": "University policy bars extracurricular student activities. Do not schedule club events.",
+    "id": "evt:lsu-s27-csp"
+  },
+  {
+    "title": "Last day of Spring classes",
+    "date": "2027-05-01",
+    "category": "academic",
+    "id": "evt:lsu-s27-last"
+  },
+  {
+    "title": "Final Exams (Spring)",
+    "date": "2027-05-03",
+    "endDate": "2027-05-08",
+    "category": "academic",
+    "notes": "Avoid scheduling club events.",
+    "id": "evt:lsu-s27-finals"
+  },
+  {
+    "title": "Spring Commencement",
+    "date": "2027-05-14",
+    "endDate": "2027-05-15",
+    "category": "academic",
+    "notes": "Held over two days.",
+    "id": "evt:lsu-s27-comm"
+  },
+  {
+    "title": "First Meeting",
+    "date": "2026-09-01",
+    "endDate": "2026-09-01",
+    "time": "16:30",
+    "category": "meeting",
+    "location": "Woodin 208",
+    "notes": "- Presentation: Explaining the club, what we do, events we've hosted in the past, opportunities!!, and officer intros - Made by Jordan",
+    "by": "Ben"
+  },
+  {
+    "title": "Rock Climbing Social",
+    "date": "2026-10-13",
+    "endDate": "2026-10-13",
+    "time": "16:30",
+    "category": "meeting",
+    "location": "Urec",
+    "notes": "- 5 Minute catchup\n- Event\n- Reach out to make sure capacity is ok, and maybe reserve?\n- Get members orientated, because you do need to do an orientation",
+    "by": "Ben"
+  },
+  {
+    "title": "Fall & Halloween Theme - Arts & Crafts Night",
+    "date": "2026-09-15",
+    "endDate": "2026-09-15",
+    "time": "16:30",
+    "category": "meeting",
+    "location": "Food Lab - Ms. Judy's",
+    "notes": "- 10 min: Club Catchup\n- 90 min: Craft Night\n- 20 min: Cleanup",
+    "by": "Ben"
+  },
+  {
+    "title": "Tabling",
+    "date": "2026-09-02",
+    "endDate": "2026-09-02",
+    "category": "fundraiser",
+    "location": "FSA",
+    "by": "Ben"
+  },
+  {
+    "title": "Tabling",
+    "date": "2026-09-04",
+    "endDate": "2026-09-04",
+    "category": "fundraiser",
+    "location": "FSA",
+    "by": "Ben"
+  },
+  {
+    "title": "Tabling",
+    "date": "2026-09-08",
+    "endDate": "2026-09-08",
+    "category": "fundraiser",
+    "location": "FSA",
+    "by": "Ben"
+  },
+  {
+    "title": "Tabling",
+    "date": "2026-09-10",
+    "endDate": "2026-09-10",
+    "category": "fundraiser",
+    "location": "FSA",
+    "by": "Ben"
+  },
+  {
+    "title": "Tabling",
+    "date": "2026-09-16",
+    "category": "fundraiser",
+    "location": "FSA",
+    "by": "Ben"
+  },
+  {
+    "title": "Tabling",
+    "date": "2026-09-18",
+    "category": "fundraiser",
+    "location": "FSA",
+    "by": "Ben"
+  },
+  {
+    "title": "Volunteer Event",
+    "date": "2026-10-20",
+    "category": "external",
+    "location": "TBD",
+    "notes": "TBD",
+    "by": "Ben"
+  },
+  {
+    "title": "Friendsgiving",
+    "date": "2026-11-03",
+    "category": "social",
+    "notes": "- 15 min: meeting\n- 45-60min: friendsgiving meal + crafts + fun trivia",
+    "by": "Ben"
+  },
+  {
+    "title": "Volunteer at some point",
+    "date": "2026-11-17",
+    "category": "meeting",
+    "location": "TBD",
+    "notes": "TBD",
+    "by": "Ben"
+  },
+  {
+    "title": "Burger Bash",
+    "date": "2026-08-28",
+    "time": "11:00",
+    "category": "social",
+    "location": "4-H Mini Barn?",
+    "notes": "Jordan + Kinzie responsible for getting folks there and tabling. Should probably utilize outreach managers. Runs from 11-1, so plan for people to be there 10:30-1:30. We will also need to register.",
+    "by": "Ben"
+  },
+  {
+    "title": "LV Retreat",
+    "date": "2026-08-17",
+    "endDate": "2026-08-19",
+    "category": "academic",
+    "notes": "Eliza, Kinzie, Ben will be out",
+    "by": "Ben"
+  },
+  {
+    "title": "Jordan - Secure Tabling Attendance for Burger Bash",
+    "date": "2026-08-21",
+    "category": "deadline",
+    "notes": "Assigned to Jordan",
+    "by": "Ben"
+  },
+  {
+    "title": "Career Prep Week",
+    "date": "2026-09-21",
+    "endDate": "2026-09-25",
+    "category": "academic",
+    "notes": "NO EVENTS",
+    "by": "Ben"
+  },
+  {
+    "title": "AFA Leaders Conference",
+    "date": "2026-11-09",
+    "endDate": "2026-11-15",
+    "category": "external",
+    "by": "Ben"
+  }
+]
