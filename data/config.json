@@ -106,10 +106,6 @@
       "weekly_hour_cap": 3
     },
     {
-      "role": "treasurer",
-      "weekly_hour_cap": 3
-    },
-    {
       "role": "officer",
       "weekly_hour_cap": 3
     },
@@ -136,5 +132,7 @@
   "jar_program": {
     "refill_discount": 1,
     "jar_cost_avoided": 0.5
-  }
+  },
+  "established": "",
+  "motto": ""
 }
