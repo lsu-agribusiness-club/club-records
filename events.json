@@ -55,9 +55,12 @@
     "title": "Final Exams (Fall)",
     "date": "2026-12-07",
     "endDate": "2026-12-12",
-    "category": "academic",
+    "category": "other",
     "notes": "Avoid scheduling club events.",
-    "id": "evt:lsu-f26-finals"
+    "id": "evt:lsu-f26-finals",
+    "time": "",
+    "location": "",
+    "by": ""
   },
   {
     "title": "Fall Commencement",
