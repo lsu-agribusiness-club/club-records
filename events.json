@@ -76,9 +76,13 @@
   {
     "title": "Spring classes begin",
     "date": "2027-01-11",
-    "category": "academic",
+    "category": "other",
     "notes": "First day of Spring 2027 classes.",
-    "id": "evt:lsu-s27-begin"
+    "id": "evt:lsu-s27-begin",
+    "endDate": "",
+    "time": "",
+    "location": "",
+    "by": ""
   },
   {
     "title": "MLK Day — no classes",
