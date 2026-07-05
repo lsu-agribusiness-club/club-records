@@ -103,7 +103,7 @@
   "roles": [
     {
       "role": "president",
-      "weekly_hour_cap": 3
+      "weekly_hour_cap": 1
     },
     {
       "role": "officer",
@@ -128,7 +128,7 @@
   },
   "officer_count": 7,
   "labor_rate": null,
-  "fiscal_year_start": "08-01",
+  "fiscal_year_start": "08-26",
   "jar_program": {
     "refill_discount": 1,
     "jar_cost_avoided": 0.5
