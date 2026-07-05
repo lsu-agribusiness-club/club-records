@@ -1,16 +1,96 @@
 {
   "club_name": "LSU Agribusiness Club",
   "products": [
-    "honey_2oz",
-    "honey_6oz",
-    "honey_8oz",
-    "honey_12oz",
-    "honey_16oz",
-    "cb_lipbalm_1oz",
-    "cb_lipbalm_.5oz",
-    "lipbalm_1oz",
-    "lipbalm_.5oz",
-    "soap"
+    {
+      "sku": "honey_2oz",
+      "label": "Honey 2oz",
+      "unit_price": 3,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "honey_6oz",
+      "label": "Honey 6oz",
+      "unit_price": 6,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "honey_8oz",
+      "label": "Honey 8oz",
+      "unit_price": 8,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "honey_12oz",
+      "label": "Honey 12oz",
+      "unit_price": 12,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "honey_16oz",
+      "label": "Honey 16oz",
+      "unit_price": 14,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "cb_lipbalm_1oz",
+      "label": "CB Lipbalm 1oz",
+      "unit_price": 6,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "cb_lipbalm_.5oz",
+      "label": "CB Lipbalm .5oz",
+      "unit_price": 4,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "lipbalm_1oz",
+      "label": "Lipbalm 1oz",
+      "unit_price": 5,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "lipbalm_.5oz",
+      "label": "Lipbalm .5oz",
+      "unit_price": 3,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    },
+    {
+      "sku": "soap",
+      "label": "Soap",
+      "unit_price": 8,
+      "cost_type": "resale",
+      "is_refill": false,
+      "refill_of": "",
+      "active": true
+    }
   ],
   "channels": [
     "tabling",
@@ -52,5 +132,9 @@
   },
   "officer_count": 7,
   "labor_rate": null,
-  "fiscal_year_start": "08-01"
+  "fiscal_year_start": "08-01",
+  "jar_program": {
+    "refill_discount": 1,
+    "jar_cost_avoided": 0.5
+  }
 }
