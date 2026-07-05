@@ -48,8 +48,13 @@
   {
     "title": "Last day of Fall classes",
     "date": "2026-12-05",
-    "category": "academic",
-    "id": "evt:lsu-f26-last"
+    "category": "other",
+    "id": "evt:lsu-f26-last",
+    "endDate": "",
+    "time": "",
+    "location": "",
+    "notes": "",
+    "by": ""
   },
   {
     "title": "Final Exams (Fall)",
