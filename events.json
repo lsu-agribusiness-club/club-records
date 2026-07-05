@@ -281,8 +281,11 @@
     "title": "AFA Leaders Conference",
     "date": "2026-11-09",
     "endDate": "2026-11-15",
-    "category": "external",
+    "category": "other",
     "by": "Ben",
-    "id": "evt_20260704_ld03p"
+    "id": "evt_20260704_ld03p",
+    "time": "",
+    "location": "",
+    "notes": ""
   }
 ]
