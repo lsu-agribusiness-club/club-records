@@ -107,7 +107,7 @@
     },
     {
       "role": "officer",
-      "weekly_hour_cap": 3
+      "weekly_hour_cap": 2
     },
     {
       "role": "graduate_advisor",
