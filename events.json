@@ -38,9 +38,12 @@
     "title": "Concentrated Study Period",
     "date": "2026-12-02",
     "endDate": "2026-12-06",
-    "category": "academic",
+    "category": "other",
     "notes": "University policy bars extracurricular student activities on or off campus. Do not schedule club events.",
-    "id": "evt:lsu-f26-csp"
+    "id": "evt:lsu-f26-csp",
+    "time": "",
+    "location": "",
+    "by": ""
   },
   {
     "title": "Last day of Fall classes",
