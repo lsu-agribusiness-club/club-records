@@ -1,1 +1,2 @@
 event_id,task_id,ts,date,action,title,owner,due,category,event_ref,repeat,note,by
+tke_20260705_wufev,tsk_20260705_0anqw,2026-07-05T05:39:14.182Z,2026-07-05,created,Schedule Tabling for Burger Bash & September,Jordan,2026-08-21,ops,evt_20260704_c81rs,,,Ben G
