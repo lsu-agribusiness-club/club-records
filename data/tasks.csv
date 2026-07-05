@@ -1,3 +1,4 @@
 event_id,task_id,ts,date,action,title,owner,due,category,event_ref,repeat,note,by
 tke_20260705_wufev,tsk_20260705_0anqw,2026-07-05T05:39:14.182Z,2026-07-05,created,Schedule Tabling for Burger Bash & September,Jordan,2026-08-21,ops,evt_20260704_c81rs,,,Ben G
 tke_20260705_11181,tsk_20260705_hu4wj,2026-07-05T05:39:43.530Z,2026-07-05,created,Raise $100,Eliza,2026-08-26,other,,,,Ben G
+tke_20260705_ihydc,tsk_20260705_1eplf,2026-07-05T05:40:02.813Z,2026-07-05,created,Raise $100,Ben,2026-08-26,other,evt:lsu-f26-begin,,,Ben G
