@@ -16,9 +16,12 @@
     "title": "Fall Holiday",
     "date": "2026-10-08",
     "endDate": "2026-10-09",
-    "category": "academic",
+    "category": "other",
     "notes": "Students away.",
-    "id": "evt:lsu-f26-fallhol"
+    "id": "evt:lsu-f26-fallhol",
+    "time": "",
+    "location": "",
+    "by": ""
   },
   {
     "title": "Thanksgiving Holiday",
