@@ -265,10 +265,12 @@
     "title": "Career Prep Week",
     "date": "2026-09-21",
     "endDate": "2026-09-25",
-    "category": "academic",
+    "category": "other",
     "notes": "NO EVENTS",
     "by": "Ben",
-    "id": "evt_20260704_6t9we"
+    "id": "evt_20260704_6t9we",
+    "time": "",
+    "location": ""
   },
   {
     "title": "AFA Leaders Conference",
