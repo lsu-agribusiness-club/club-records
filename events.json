@@ -87,8 +87,13 @@
   {
     "title": "MLK Day — no classes",
     "date": "2027-01-18",
-    "category": "academic",
-    "id": "evt:lsu-s27-mlk"
+    "category": "other",
+    "id": "evt:lsu-s27-mlk",
+    "endDate": "",
+    "time": "",
+    "location": "",
+    "notes": "",
+    "by": ""
   },
   {
     "title": "Mardi Gras Holiday",
