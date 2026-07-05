@@ -212,11 +212,13 @@
   {
     "title": "Volunteer Event",
     "date": "2026-10-20",
-    "category": "external",
+    "category": "meeting",
     "location": "TBD",
     "notes": "TBD",
     "by": "Ben",
-    "id": "evt_20260704_8tykn"
+    "id": "evt_20260704_8tykn",
+    "endDate": "",
+    "time": ""
   },
   {
     "title": "Friendsgiving",
