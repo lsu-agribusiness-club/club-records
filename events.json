@@ -129,7 +129,8 @@
     "category": "meeting",
     "location": "Woodin 208",
     "notes": "- Presentation: Explaining the club, what we do, events we've hosted in the past, opportunities!!, and officer intros - Made by Jordan",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_pw8yo"
   },
   {
     "title": "Rock Climbing Social",
@@ -139,7 +140,8 @@
     "category": "meeting",
     "location": "Urec",
     "notes": "- 5 Minute catchup\n- Event\n- Reach out to make sure capacity is ok, and maybe reserve?\n- Get members orientated, because you do need to do an orientation",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_9ki28"
   },
   {
     "title": "Fall & Halloween Theme - Arts & Crafts Night",
@@ -149,7 +151,8 @@
     "category": "meeting",
     "location": "Food Lab - Ms. Judy's",
     "notes": "- 10 min: Club Catchup\n- 90 min: Craft Night\n- 20 min: Cleanup",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_y0kkb"
   },
   {
     "title": "Tabling",
@@ -157,7 +160,8 @@
     "endDate": "2026-09-02",
     "category": "fundraiser",
     "location": "FSA",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_nf87t"
   },
   {
     "title": "Tabling",
@@ -165,7 +169,8 @@
     "endDate": "2026-09-04",
     "category": "fundraiser",
     "location": "FSA",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_hgcgm"
   },
   {
     "title": "Tabling",
@@ -173,7 +178,8 @@
     "endDate": "2026-09-08",
     "category": "fundraiser",
     "location": "FSA",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_2w3q4"
   },
   {
     "title": "Tabling",
@@ -181,21 +187,24 @@
     "endDate": "2026-09-10",
     "category": "fundraiser",
     "location": "FSA",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_e2wc6"
   },
   {
     "title": "Tabling",
     "date": "2026-09-16",
     "category": "fundraiser",
     "location": "FSA",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_djeb8"
   },
   {
     "title": "Tabling",
     "date": "2026-09-18",
     "category": "fundraiser",
     "location": "FSA",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_zjd6v"
   },
   {
     "title": "Volunteer Event",
@@ -203,14 +212,16 @@
     "category": "external",
     "location": "TBD",
     "notes": "TBD",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_8tykn"
   },
   {
     "title": "Friendsgiving",
     "date": "2026-11-03",
     "category": "social",
     "notes": "- 15 min: meeting\n- 45-60min: friendsgiving meal + crafts + fun trivia",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_afdxi"
   },
   {
     "title": "Volunteer at some point",
@@ -218,7 +229,8 @@
     "category": "meeting",
     "location": "TBD",
     "notes": "TBD",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_jpyso"
   },
   {
     "title": "Burger Bash",
@@ -227,22 +239,27 @@
     "category": "social",
     "location": "4-H Mini Barn?",
     "notes": "Jordan + Kinzie responsible for getting folks there and tabling. Should probably utilize outreach managers. Runs from 11-1, so plan for people to be there 10:30-1:30. We will also need to register.",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_c81rs"
   },
   {
     "title": "LV Retreat",
     "date": "2026-08-17",
     "endDate": "2026-08-19",
-    "category": "academic",
+    "category": "other",
     "notes": "Eliza, Kinzie, Ben will be out",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_d3w72",
+    "time": "",
+    "location": ""
   },
   {
     "title": "Jordan - Secure Tabling Attendance for Burger Bash",
     "date": "2026-08-21",
     "category": "deadline",
     "notes": "Assigned to Jordan",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_qczjo"
   },
   {
     "title": "Career Prep Week",
@@ -250,13 +267,15 @@
     "endDate": "2026-09-25",
     "category": "academic",
     "notes": "NO EVENTS",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_6t9we"
   },
   {
     "title": "AFA Leaders Conference",
     "date": "2026-11-09",
     "endDate": "2026-11-15",
     "category": "external",
-    "by": "Ben"
+    "by": "Ben",
+    "id": "evt_20260704_ld03p"
   }
 ]
