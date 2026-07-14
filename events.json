@@ -70,8 +70,13 @@
   {
     "title": "Fall Commencement",
     "date": "2026-12-17",
-    "category": "academic",
-    "id": "evt:lsu-f26-comm"
+    "category": "other",
+    "id": "evt:lsu-f26-comm",
+    "endDate": "",
+    "time": "",
+    "location": "",
+    "notes": "",
+    "by": ""
   },
   {
     "title": "Spring classes begin",
